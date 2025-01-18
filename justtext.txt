@@ -1,1 +1,1 @@
-Hi this is my first formal changes to a file on repo
+Going to commit for the first time from local pc on vs code
